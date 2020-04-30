@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed76d24-4054-4079-918f-0f79b7b9fddb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Vg8ooNwUZMRyTFheApTBC7P1hl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestBlackList">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBlackList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MUFGCodeSignal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MUFGCodeSignal" />
+      <option name="MAIN_CLASS_NAME" value="MUFGCodeSignal.TestBlackList" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlackList.applicantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MUFGCodeSignal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MUFGCodeSignal" />
+      <option name="MAIN_CLASS_NAME" value="MUFGCodeSignal.TestBlackList" />
+      <option name="METHOD_NAME" value="applicantTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlackList.givenAString_whenAlsoGivenABlackList_returnNewList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MUFGCodeSignal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MUFGCodeSignal" />
+      <option name="MAIN_CLASS_NAME" value="MUFGCodeSignal.TestBlackList" />
+      <option name="METHOD_NAME" value="givenAString_whenAlsoGivenABlackList_returnNewList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBlackList.replaceAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MUFGCodeSignal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MUFGCodeSignal" />
+      <option name="MAIN_CLASS_NAME" value="MUFGCodeSignal.TestBlackList" />
+      <option name="METHOD_NAME" value="replaceAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLongestNoRepeats.givenStringWithRepeatingChars_returnNoRepeats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scratch" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLongestNoRepeats" />
+      <option name="METHOD_NAME" value="givenStringWithRepeatingChars_returnNoRepeats" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestBlackList" />
+        <item itemvalue="JUnit.TestBlackList.applicantTest" />
+        <item itemvalue="JUnit.TestBlackList.replaceAllTest" />
+        <item itemvalue="JUnit.TestBlackList.givenAString_whenAlsoGivenABlackList_returnNewList" />
+        <item itemvalue="JUnit.TestLongestNoRepeats.givenStringWithRepeatingChars_returnNoRepeats" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed76d24-4054-4079-918f-0f79b7b9fddb" name="Default Changelist" comment="" />
+      <created>1577663554250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577663554250</updated>
+      <workItem from="1577663558540" duration="54183000" />
+      <workItem from="1578764869245" duration="1225000" />
+      <workItem from="1578892868570" duration="14000" />
+      <workItem from="1583193804443" duration="20712000" />
+      <workItem from="1584207716478" duration="10392000" />
+      <workItem from="1584810320772" duration="19268000" />
+      <workItem from="1584912495638" duration="4706000" />
+      <workItem from="1585246068458" duration="8425000" />
+      <workItem from="1585413109771" duration="3535000" />
+      <workItem from="1585498131904" duration="9090000" />
+      <workItem from="1585584498309" duration="2564000" />
+      <workItem from="1585937923138" duration="42000" />
+      <workItem from="1586104150701" duration="8591000" />
+      <workItem from="1586819887109" duration="56000" />
+      <workItem from="1586819960542" duration="86000" />
+      <workItem from="1587131829772" duration="17477000" />
+      <workItem from="1588174991425" duration="5955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="639" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584207985764">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="639" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1584207985764" />
+    <state x="1295" y="608" key="FileChooserDialogImpl" timestamp="1587226446612">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1295" y="608" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1587226446612" />
+    <state width="1480" height="291" key="GridCell.Tab.0.bottom" timestamp="1588184950583">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950583" />
+    <state width="1480" height="291" key="GridCell.Tab.0.center" timestamp="1588184950583">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950583" />
+    <state width="1480" height="291" key="GridCell.Tab.0.left" timestamp="1588184950583">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950583" />
+    <state width="1480" height="291" key="GridCell.Tab.0.right" timestamp="1588184950583">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950583" />
+    <state width="1480" height="291" key="GridCell.Tab.1.bottom" timestamp="1588184950584">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950584" />
+    <state width="1480" height="291" key="GridCell.Tab.1.center" timestamp="1588184950584">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950584" />
+    <state width="1480" height="291" key="GridCell.Tab.1.left" timestamp="1588184950584">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950584" />
+    <state width="1480" height="291" key="GridCell.Tab.1.right" timestamp="1588184950584">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1480" height="291" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1588184950584" />
+    <state x="970" y="416" key="SettingsEditor" timestamp="1588177922010">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="970" y="416" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1588177922010" />
+    <state x="824" y="586" key="com.intellij.ide.util.TipDialog" timestamp="1586819987092">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="824" y="586" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1586819987091" />
+    <state width="630" height="500" key="javadoc.popup.new" timestamp="1585501899297">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="630" height="500" key="javadoc.popup.new/0.0.2560.1440@0.0.2560.1440" timestamp="1585501899297" />
+    <state x="649" y="347" key="new project wizard" timestamp="1587837970170">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="649" y="347" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1587837970170" />
+    <state x="1136" y="451" key="refactoring.ChangeSignatureDialog" timestamp="1586127150960">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1136" y="451" key="refactoring.ChangeSignatureDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1586127150960" />
+    <state x="1393" y="461" width="672" height="678" key="search.everywhere.popup" timestamp="1583801153262">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1393" y="461" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1583801153262" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/recursion/PrincipleOfRecursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestPORecursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestListSwap.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/recursion/ListNodeSolution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/recursion/ListNodeSolution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cracking/QSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cracking/QSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cracking/QSort.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cracking/LargestSquareOfOnes.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algodesign/Subsets.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestTwoSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestAddTwoNumbersWrongApproach.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestLongestCommonPrefix.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/TestVP.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/leetcode/medium/TestATOI.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/hacking/TestTrie.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/problems/LongestSubstringNoRepeats.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MUFGCodeSignal/Redactor.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="result" />
+        <watch expression="result.next.val" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scratch$TestLongestPalidromicSubString_givenStringThatContainsPalindromicSubstring_thenReturnSubString.ic" NAME="TestLongestPalidromicSubString.givenStringThatContainsPalindromicSubstring_thenReturnSubString Coverage Results" MODIFIED="1585506727794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.medium.*</FILTER>
+    </SUITE>
+  </component>
+</project>

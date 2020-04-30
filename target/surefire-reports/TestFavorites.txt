@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestFavorites
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.034 s <<< FAILURE! - in TestFavorites
+givenInstanceOfFavorites_whenTypesArePut_thenGetRetrieves  Time elapsed: 0.025 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Java> but was: <java>
+	at TestFavorites.givenInstanceOfFavorites_whenTypesArePut_thenGetRetrieves(TestFavorites.java:19)
+
